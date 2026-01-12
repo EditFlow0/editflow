@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://editflow0.github.io/editflow/sitemap.xml
